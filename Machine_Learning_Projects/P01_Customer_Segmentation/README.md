@@ -113,8 +113,7 @@ K-Means clustering has successfully segmented customers into distinct groups bas
 
 ## 📂 Project Structure
 
-<img width="303" height="345" alt="image" src="https://github.com/user-attachments/assets/b8feac9f-54b8-4212-81fb-f16e5ace1eb6" />
-
+<img width="555" height="704" alt="image" src="https://github.com/user-attachments/assets/75db23cd-da9a-439d-8bd5-5df3468ea21c" />
 
 ## 📌 Conclusion
 
